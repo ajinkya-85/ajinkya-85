@@ -62,13 +62,6 @@ Ajinkya_Ghode" target="blank"><img src="https://img.shields.io/badge/-LeetCode-F
 <a href="https://www.linkedin.com/in/ajinkya-ghode-2160a2351/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ajinkyaghode85@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-85&" alt="ajinkya-85" /></p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
